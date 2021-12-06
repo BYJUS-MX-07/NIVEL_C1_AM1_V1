@@ -321,7 +321,7 @@ class Game {
   gameOver() {
     swal({
       title: `Juego Terminado`,
-      text: "¡Uy! ¡Perdiste la carrera!",
+      text: "¡Uy!¡Perdiste la carrera!",
       imageUrl:
         "https://cdn.shopify.com/s/files/1/1061/1924/products/Thumbs_Down_Sign_Emoji_Icon_ios10_grande.png",
       imageSize: "100x100",
