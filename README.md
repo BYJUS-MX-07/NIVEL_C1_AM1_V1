@@ -1,2 +1,2 @@
-# p5-multijugador-juego-de-carreras-de-autos
+# p5-Juego-de-carreras-de-autos-multijugador
 Juego de carreras de autos multijugador
