@@ -3,8 +3,8 @@ class Welcome {
     this.logoImage = "./assets/title.png";
     this.logo = createImg(this.logoImage, "gameTitle");
 
-    this.teacherButton = createButton("Maestra");
-    this.studentButton = createButton("Alumno");
+    this.teacherButton = createButton("Maestra:");
+    this.studentButton = createButton("Alumno:");
   }
 
   hideElements() {
